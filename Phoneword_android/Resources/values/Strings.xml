@@ -2,4 +2,7 @@
 <resources>
 	<string name="hello">Hello World, Click Me!</string>
 	<string name="app_name">Phoneword_android</string>
+	<string name="checkBox">check2</string>
+	<string name="hola2">hola hola</string>
+	<string name="checkBox1">check1</string>
 </resources>
